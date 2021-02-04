@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-02-04T18:43:37.875Z",
+    "end": "2021-02-04T18:43:40.019Z",
+    "duration": 2144
+  },
+  "tests": [
+    {
+      "title": "must say that 4s left",
+      "fullTitle": "\"$ node timer 5s\" command must say that 4s left",
+      "duration": 1058,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must say that 59s left",
+      "fullTitle": "\"$ node timer 1min\" command must say that 59s left",
+      "duration": 1076,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "must say that 4s left",
+      "fullTitle": "\"$ node timer 5s\" command must say that 4s left",
+      "duration": 1058,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must say that 59s left",
+      "fullTitle": "\"$ node timer 1min\" command must say that 59s left",
+      "duration": 1076,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
